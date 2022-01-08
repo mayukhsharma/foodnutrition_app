@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/website/nutritionNrecipes/static/css/main.1e86a1cb.css",
+    "main.js": "/website/nutritionNrecipes/static/js/main.52140380.js",
+    "index.html": "/website/nutritionNrecipes/index.html",
+    "main.1e86a1cb.css.map": "/website/nutritionNrecipes/static/css/main.1e86a1cb.css.map",
+    "main.52140380.js.map": "/website/nutritionNrecipes/static/js/main.52140380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e86a1cb.css",
+    "static/js/main.52140380.js"
+  ]
+}
